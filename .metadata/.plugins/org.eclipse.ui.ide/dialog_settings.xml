@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="464" key="DIALOG_HEIGHT"/>
+		<item value="645" key="DIALOG_X_ORIGIN"/>
+		<item value="191" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\easyspub\JAVA_LAB\Chapter4"/>
+			<item value="D:\easyspub\JAVA_LAB\StudentInfoUpgrade"/>
+			<item value="D:\easyspub\JAVA_LAB\StudentInfo"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter9"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter7"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter3"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter2"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter1"/>
+			<item value="D:\easyspub\JAVA_LAB\Exercise"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter15"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter14"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter13"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter12"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter11"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter10"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter8"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter6"/>
+			<item value="D:\easyspub\JAVA_LAB\Chapter5"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="26" key="DIALOG_X_ORIGIN"/>
+		<item value="281" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

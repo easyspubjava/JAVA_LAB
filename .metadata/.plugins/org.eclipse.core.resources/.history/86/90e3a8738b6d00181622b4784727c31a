@@ -1,0 +1,16 @@
+package bitop;
+
+public class OperationEx11 {
+
+	public static void main(String[] args) {
+		int num = 5;
+		
+		System.out.println(num << 0B0010);
+		System.out.println(num >> 0B0010);
+		System.out.println(num >>> 0B0010);
+		System.out.println(num);
+		
+		num = num << 2;
+		System.out.println(num);
+	}
+}

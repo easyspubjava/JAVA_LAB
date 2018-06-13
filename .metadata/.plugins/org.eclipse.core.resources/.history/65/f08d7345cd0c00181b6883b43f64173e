@@ -1,0 +1,5 @@
+package chapter9.step1;
+
+public class AutoCar extends Bus{
+
+}

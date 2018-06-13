@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;lamda&apos; to &apos;lambda&apos;&#x0D;&#x0A;- Original project: &apos;Chapter11&apos;&#x0D;&#x0A;- Original element: &apos;Chapter11/src/lamda&apos;&#x0D;&#x0A;- Renamed element: &apos;Chapter11/src/lambda&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;lamda&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;lamda" name="lambda" qualified="false" references="true" stamp="1524028096885" textual="false" version="1.0"/>
+</session>

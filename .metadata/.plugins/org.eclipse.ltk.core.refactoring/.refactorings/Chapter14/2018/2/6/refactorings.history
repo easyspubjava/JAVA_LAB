@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ThrowsException.java&apos; to &apos;exception.ThrowsException.java&apos;&#x0D;&#x0A;- Original project: &apos;Chapter14&apos;&#x0D;&#x0A;- Destination element: &apos;exception.ThrowsException.java&apos;&#x0D;&#x0A;- Original element: &apos;exception.ThrowsException.java&apos;" description="Copy compilation unit" destination="/src&lt;exception{ThrowsException.java" element1="/src&lt;exception{ThrowsException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1518188623263" units="1" version="1.0"/>
+</session>
