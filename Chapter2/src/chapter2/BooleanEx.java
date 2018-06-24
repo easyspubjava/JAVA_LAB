@@ -6,5 +6,7 @@ public class BooleanEx {
 
 		boolean isMarried = true;
 		System.out.println(isMarried);
+		
+		
 	}
 }

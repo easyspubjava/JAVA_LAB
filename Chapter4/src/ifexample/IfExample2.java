@@ -8,7 +8,7 @@ public class IfExample2 {
 		
 		if(age < 8){
 			charge = 1000; 
-			System.out.println("취학 전 아동입니다.");
+			System.out.println("미 취학 아동입니다.");
 		}
 		else if(age < 14){
 			charge = 2000;
