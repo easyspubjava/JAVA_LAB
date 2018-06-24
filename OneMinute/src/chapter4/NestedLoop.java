@@ -7,7 +7,7 @@ public class NestedLoop {
 			int dan;
 			int times;
 			
-			for(dan = 2; dan <=9; dan+=2){
+			for(dan = 3; dan <=7; dan++){
 				for(times = 1; times <=9; times++){
 					System.out.println(dan + "X" + times + "=" + dan * times);
 				}
