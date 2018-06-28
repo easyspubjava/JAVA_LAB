@@ -20,7 +20,7 @@ public class Customer {
 		initCustomer();
 	}
 	
-	public void initCustomer()
+	private void initCustomer()
 	{
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;	
