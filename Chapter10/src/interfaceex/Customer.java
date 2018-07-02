@@ -12,10 +12,10 @@ public class Customer implements Buy, Sell{
 		System.out.println("판매하기");
 	}
 
-	@Override
+	/*@Override
 	public void order() {
 		System.out.println("고객 판매 주문");
-	}
+	}*/
 }
 
 

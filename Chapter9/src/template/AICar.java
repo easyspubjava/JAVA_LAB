@@ -15,6 +15,6 @@ public class AICar extends Car{
 
 	@Override
 	public void wiper() {
-		System.out.println("비나 눈의 양에 맞게 빠르기가 자동으로 조절됩니다");		
+		System.out.println("비나 눈의 양에 따라 빠르기가 자동으로 조절됩니다");		
 	}
 }
