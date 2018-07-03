@@ -14,5 +14,7 @@ public class Q3 {
 		}catch(IOException e) {
 			System.out.println(e);
 		}
+		
+		System.out.println("a.txt 파일을 열어보세요");
 	}
 }
