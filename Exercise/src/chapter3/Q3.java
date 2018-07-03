@@ -1,6 +1,6 @@
 package chapter3;
 
-public class OperationEx3 {
+public class Q3 {
 
 	public static void main(String[] args) {
 		int num = 10;
