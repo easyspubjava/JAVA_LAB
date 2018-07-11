@@ -2,7 +2,7 @@ package chapter7.q5;
 
 import java.util.ArrayList;
 
-public class DogTest {
+public class DogTestArrayList {
 
 	public static void main(String[] args) {
 
