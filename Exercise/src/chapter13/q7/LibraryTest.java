@@ -1,4 +1,4 @@
-package stream;
+package chapter13.q7;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,8 +27,6 @@ class Book{
 	public void setPrice(int price) {
 		this.price = price;
 	}
-	
-	
 }
 
 public class LibraryTest {
