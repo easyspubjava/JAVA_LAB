@@ -8,7 +8,7 @@ public class CarTest {
 		AutoCar autoCar = new AutoCar();
 		
 		bus.run();
-		bus.run();
+		autoCar.run();
 		
 		bus.refuel();
 		autoCar.refuel();
