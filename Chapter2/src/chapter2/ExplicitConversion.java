@@ -4,9 +4,9 @@ public class ExplicitConversion {
 
 	public static void main(String[] args) {
 
-		int iNum = 1000;
-		byte bNum = (byte)iNum;
-		System.out.println(bNum);
+	//	int iNum = 1000;
+	//	byte bNum = (byte)iNum;
+	//	System.out.println(bNum);
 		
 		double dNum1 = 1.2;
 		float fNum2 = 0.9F;
