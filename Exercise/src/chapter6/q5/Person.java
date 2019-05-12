@@ -22,7 +22,7 @@ public class Person {
 		String message = bCoffee.brewing(4500);
 		if(message != null) {
 			this.money -= money;
-			System.out.println(name + " 님이 " + money +""  + message);
+			System.out.println(name + " 님이 " + money +"으로"  + message);
 		}
 	}
 }
