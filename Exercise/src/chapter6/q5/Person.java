@@ -14,7 +14,7 @@ public class Person {
 		String message = sCoffee.brewing(4000);
 		if(message != null) {
 			this.money -= money;
-			System.out.println(name + " ë‹˜ì´" + money +"ìœ¼ë¡œ "  + message);
+			System.out.println(name + " ´ÔÀÌ" + money +"À¸·Î "  + message);
 		}
 	}
 	
@@ -22,7 +22,7 @@ public class Person {
 		String message = bCoffee.brewing(4500);
 		if(message != null) {
 			this.money -= money;
-			System.out.println(name + " ë‹˜ì´ " + money +"ìœ¼ë¡œ"  + message);
+			System.out.println(name + " ´ÔÀÌ" + money +"À¸·Î"  + message);
 		}
 	}
 }

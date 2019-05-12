@@ -4,7 +4,7 @@ public class Q5 {
 
 	public static void main(String[] args) {
 
-		int lineCount = 7;  //다른 홀수 값을 넣어보세요
+		int lineCount = 9;  //다른 홀수 값을 넣어보세요
 		int spaceCount = lineCount/2 +1;
 		int starCount = 1;
 		

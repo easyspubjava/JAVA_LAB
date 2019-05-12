@@ -14,6 +14,7 @@ public class Student {
 	 public void takeBus(Bus bus) {
 		  bus.take(1000);
 		  this.money -= 1000;
+		  
 	 }
 	    
 	 public void takeSubway(Subway subway) {

@@ -11,11 +11,10 @@ public class TakeTrans {
 		  studentJames.takeBus(bus100);     // james가 100번 버스를 탐
 		  studentJames.showInfo();           // james 정보 출력
 		  bus100.showInfo();                // 버스 정보 출력
-		
+		  
 		  Subway subwayGreen = new Subway("2호선");  
 		  studentTomas.takeSubway(subwayGreen);  // Tomas가 2호선을 탐
 		  studentTomas.showInfo();                 // Tomas 정보 출력
 		  subwayGreen.showInfo();   
-
 	}
 }
